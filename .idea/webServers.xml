@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="622004f3-6fb7-4ddb-9543-313d9a3c54fe" name="ttc majcichov" url="http://ftp.ttcmajcichov.sk">
+        <fileTransfer host="ftp.ttcmajcichov.sk" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
